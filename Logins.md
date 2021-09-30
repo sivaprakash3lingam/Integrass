@@ -16,7 +16,7 @@ Database Password :  your db password (Default Password : )
 
 #Demo Admin Login Credientials
 Url : http://localhost:8080/admin
-Username : admin
+Username : siva
 Password : 123
 
 
